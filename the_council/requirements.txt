@@ -1,0 +1,9 @@
+crewai[tools]
+langchain-google-genai
+discord.py
+yfinance>=0.2.0
+requests
+python-dotenv
+pandas
+numpy
+ddgs
